@@ -24,8 +24,6 @@ creds, _ = default()
 gc = gspread.authorize(creds)
 
 import pandas as pd
-# read data and put it in a dataframe
-# 在 google 工作表載入 gsheets
 sheets = gc.open_by_url('https://docs.google.com/spreadsheets/d/1Vc689UvCktZCh4ycS3ADWFC09Bp-UIdip-04BWAE1WY/edit?gid=1801345281#gid=1801345281')
 worksheet = sheets.get_worksheet(0)
 df = pd.DataFrame(worksheet.get_all_records())

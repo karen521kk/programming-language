@@ -7,4 +7,6 @@
 
 作業三:https://colab.research.google.com/drive/10lUUIJPuPS9kBjcAFtHZiVPD-LaPPaRh#scrollTo=MPyLB5kuKg8F
 
-第一次期末專題提案報告:[Uploading 期末專題.pdf…]()
+第一次期末專題提案報告:https://www.youtube.com/watch?v=RyKoB8-H5cQ
+
+

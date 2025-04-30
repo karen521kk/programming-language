@@ -15,3 +15,4 @@
 
 專題程式碼:https://colab.research.google.com/drive/1xlQiWene5MupUN-2tYUarRd1-pu093TO#scrollTo=rPddhYYDYYr1
 
+第二次進度報告:https://www.youtube.com/watch?v=U6gyKNhtZ0o

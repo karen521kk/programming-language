@@ -13,10 +13,8 @@
 
 作業五:https://colab.research.google.com/drive/1IHNLCi6IBlbJTEqm_mxKNlYWdSf8cVWy#scrollTo=amWeo5tzcA9k
 
-專題程式碼:https://colab.research.google.com/drive/1xlQiWene5MupUN-2tYUarRd1-pu093TO#scrollTo=rPddhYYDYYr1
+專題程式碼:https://colab.research.google.com/drive/1JQLzlFQffSz-YwFewwpjzONw8wf63aKu#scrollTo=AFF1IiT-O7_3
 
 第二次進度報告:https://www.youtube.com/watch?v=U6gyKNhtZ0o
 
-參考資料:file:///C:/Users/karen/OneDrive/%E4%B8%AD%E5%A4%AE.pdf
-       file:///C:/Users/karen/OneDrive/%E4%BA%A4%E5%A4%A7.pdf
-       file:///C:/Users/karen/OneDrive/%E5%8F%B0%E5%A4%A7.pdf
+
